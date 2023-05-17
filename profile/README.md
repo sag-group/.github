@@ -9,7 +9,7 @@
 
 - ⚡ Our Moto is **This is the Way**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">cloud@sag-ag.ch</p>
 
 <h3 align="left">Languages and Tools:</h3>
